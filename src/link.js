@@ -4,7 +4,7 @@ return (
     <div className="links">
     <ul className="package">
     <li>
-    < NavLink activeClassName="aa" to="/" exact className="aaa">
+    < NavLink activeClassName="aa" to="/clone/" exact className="aaa">
     Basic Package
     
     </NavLink>
@@ -14,7 +14,7 @@ return (
     
     
     <li>
-    < NavLink activeClassName="aa" to="/stan" className="aaa">
+    < NavLink activeClassName="aa" to="/clone/stan" className="aaa">
         Standard package
     </NavLink>
     </li>
@@ -22,7 +22,7 @@ return (
     
     
     <li>
-    <NavLink activeClassName="aa" to="/prem" className="aaa">
+    <NavLink activeClassName="aa" to="/clone/prem" className="aaa">
     
         Preminum Package
     </NavLink>

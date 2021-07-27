@@ -35,7 +35,7 @@ const cutt=()=>{
     <>
     <div className="hea">
       <nav className="head">
-        <img src="https://marketpresso.com/public/upload/96/lib/26646_1580226991_lib.png"></img>
+        <img className="userr" src="https://prashantbhalla1.github.io/Education/user1.png"></img>
        <div className="burg" onClick={btnhandle}>
           <div className="line"></div>
           <div className="line"></div>

@@ -40,23 +40,23 @@ return (
 
 <div className="mbox fade">
 
-<img src="https://marketpresso.com/public/upload/96/lib/64811_1580215072_lib.jpg"></img>
+<img src="https://prashantbhalla1.github.io/Education/lib2.jpg"></img>
 
 </div>
 
 <div className="mbox fade fade1 ">
 
-<img src="https://marketpresso.com/public/upload/96/lib/80614_1580214967_lib.jpg"></img>
+<img src="https://prashantbhalla1.github.io/Education/lib4.jpg"></img>
 
 </div>
 <div className="mbox fade fade1">
 
-<img src="https://marketpresso.com/public/upload/96/lib/62376_1580214983_lib.jpg"></img>
+<img src="https://prashantbhalla1.github.io/Education/lib2.jpg"></img>
 
 </div>
 <div className="mbox fade fade1">
 
-<img src="https://marketpresso.com/public/upload/96/lib/50194_1580214952_lib.jpg"></img>
+<img src="https://prashantbhalla1.github.io/Education/lib4.jpg"></img>
 
 </div>
 <div className="slid">

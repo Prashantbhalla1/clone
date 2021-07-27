@@ -5,7 +5,7 @@ const Customer = () => {
       <h2>Customer Reviews</h2>
 
       <div className="review">
-        <img className="user" src="https://image.flaticon.com/icons/png/512/149/149071.png"></img>
+        <img className="user" src="https://prashantbhalla1.github.io/Education/user1.png"></img>
         <p className="name"></p>
         <i class="fa fa-star on" aria-hidden="true"></i>
         <i class="fa fa-star on" aria-hidden="true"></i>
