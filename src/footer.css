@@ -1,0 +1,28 @@
+.hellow{
+    text-align: center;
+    display: inline;
+}
+.right{
+    display: inline;
+    text-align: end;
+}
+footer{
+    background-color: #fafafa;
+    padding: 15px ;
+    text-align: center;
+}
+*{
+    list-style-type: none;
+}
+.boxx{
+    width: 70%;
+    margin: auto;
+}
+.cutt{
+    font-size: 1.5rem;
+    
+    color: #99abb4;
+}
+.cutt{
+    display: none;
+}

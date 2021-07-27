@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+.hea {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 110;
+
+  align-items: center;
+}
+.head {
+  display: flex;
+  width: 100%;
+  padding: 10px 4px;
+  align-items: center;
+  box-shadow: 0px 10px 20px rgb(0 0 0 / 9%);
+  z-index: 2;
+}
+.head img {
+  left: 0;
+  top: 0;
+  width: 15%;
+  margin-left: 30px;
+  cursor: pointer;
+  display: block;
+  z-index: 100;
+}
+.uu {
+  display: flex;
+  list-style-type: none;
+  position: absolute;
+  right: 2%;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  color: #99abb4;
+}
+select,
+option {
+  color: #99abb4;
+}
+li {
+  margin: 0px 15px;
+}
+li i {
+  margin: 2px;
+}
+a:hover {
+  color: #70da46;
+  cursor: pointer;
+}
+.burg{
+    display: none;
+}
+
+.head2 {
+  display: block;
+  padding: 10px;
+  z-index: 1;
+  box-shadow: 0px 10px 20px rgb(0 0 0 / 9%);
+}
+.head3 {
+  width: 80%;
+  background-color: #e9ecef;
+  margin: 30px auto;
+  padding: 18px 10px;
+}
+.mbox {
+  margin: 0px;
+}
+.down {
+  margin: 4px;
+}
+.open {
+  background-color: white;
+  box-shadow: 4px 4px 15px 8px rgba(0, 0, 0, 0.247);
+  padding: 8px;
+  border-radius: 10px;
+  z-index: 100;
+  position: absolute;
+  z-index: 1001;
+  width: 260px;
+  background: #ffffff;
+
+  box-shadow: 0px 10px 20px rgb(0 0 0 / 9%);
+}
+ol li {
+  margin: 8px 0px;
+}
+.line{
+    background-color: #99abb4;
+    width: 20px;
+    height: 1px;
+    margin: 4px;
+}
+@media all and (max-width: 812px) {
+  h1 {
+    font-size: 1.7rem;
+  }
+  .head2 {
+    display: none;
+  }
+  .second {
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.8rem;
+  }
+  .packagebox {
+    position: relative !important;
+    margin: 0px;
+    width: 80%;
+    right: 0;
+  }
+  .mbox {
+    margin: 0px;
+  }
+  .image {
+    width: 50%;
+    margin: 0px;
+  }
+  .about {
+    margin: 0px;
+    width: 80%;
+    margin: auto;
+  }
+  .table {
+    width: 75% !important;
+    margin: auto !important;
+    margin-top: 40px !important;
+  }
+  .customer {
+    font-size: 0.7rem;
+  }
+  footer {
+    font-size: 0.8rem;
+  }
+  .user {
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .hea {
+    display: flex;
+  }
+  .second {
+    margin: 35px !important;
+  }
+  .burg{
+      display: block;
+  }
+  .head3{
+      padding: 10px !important;
+  }
+}
+@media all and (max-width: 538px) {
+  h1 {
+    font-size: 1.2rem;
+  }
+  h1 + p {
+    font-size: 0.8rem;
+  }
+  span {
+    display: none;
+  }
+  .btn {
+    width: 100% !important;
+  }
+  a {
+    font-size: 0.8rem;
+  }
+  li {
+    margin: 0px 5px;
+  }
+  .head3{
+    padding: 8px 5px !important;
+}
+}

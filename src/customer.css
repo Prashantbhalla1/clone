@@ -1,0 +1,25 @@
+.customer{
+    width: 75%;
+    margin:20px auto;
+    padding: 10px;
+    text-align: center;
+    border: 0.5px solid rgba(0, 0, 0, 0.219);
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.219);
+   
+
+}
+i{
+    color: #70da46;
+}
+.user{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+i+p{
+    margin: 2px 35px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:#70da46b7 ;
+}
